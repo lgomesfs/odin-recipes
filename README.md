@@ -1,0 +1,1 @@
+Esse é um projeto para testar as habilidades adquiridas de HTML fazendo um site de receitas.
