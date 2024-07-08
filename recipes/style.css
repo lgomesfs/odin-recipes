@@ -1,0 +1,29 @@
+*{
+    font-family: Arial;
+    color: yellow;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+img{
+    width: 580px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#description{
+    font-style: italic;
+    font-size: 15px;
+}
+
+h1,
+h2{
+    color: red;
+}
