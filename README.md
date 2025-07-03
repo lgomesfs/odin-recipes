@@ -1,0 +1,1 @@
+Building a website to put in practice things that I've learned so far on The Odin Project Course. This website has focus on show recipes and for now only using HTML, those recipes come from "allrecipes.com".
